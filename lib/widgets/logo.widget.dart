@@ -10,7 +10,7 @@ class Logo extends StatelessWidget {
         ),
         Container(
           child: Image.asset(
-            "assets/images/aog-white.png",
+            "assets/images/logo.png",
             height: 80,
           ),
         ),
